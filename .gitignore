@@ -1,2 +1,4 @@
-﻿nasm.exe
-DEBUG.COM
+*.exe
+*.com
+*.COM
+*.EXE
